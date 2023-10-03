@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 👋, I'm Yash</h1>
 <h3 align="center">I am a excellent web Developer focusing on become something more.🥇</h3>
 
-<img align="right" alt="coding" width="200" src="https://media.tenor.com/0aGHOTVmG58AAAAd/onimeshon-nakanoart.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/0aGHOTVmG58AAAAd/onimeshon-nakanoart.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyashsingh-9&label=Profile%20views&color=0e75b6&style=flat" alt="yyashsingh-9" /> </p>
 
 
