@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/0aGHOTVmG58AAAAd/onimeshon-nakanoart.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyashsingh-9&label=Profile%20views&color=0e75b6&style=flat" alt="yyashsingh-9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyashsingh-9" alt="yyashsingh-9" /></a> </p>
 
 - 🔭 I’m currently working on **E-com site**
 
