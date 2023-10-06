@@ -27,3 +27,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyashsingh-9&show_icons=true&locale=en&layout=compact" alt="yyashsingh-9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yyashsingh-9&" alt="yyashsingh-9" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YYashSingh-9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YYashSingh-9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
