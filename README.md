@@ -1,4 +1,4 @@
-![logo](https://github.com/YYashSingh-9/YYashSingh-9/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner%20(3).png)
+![logo](https://github.com/YYashSingh-9/YYashSingh-9/blob/main/banner.png)
 <h1 align="center">Namaste 👋, I'm Yash</h1>
 <h3 align="center">From no code to self-taught full stack Web Developer.🥇</h3>
 
