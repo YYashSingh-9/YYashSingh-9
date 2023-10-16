@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyashsingh-9&label=Profile%20views&color=0e75b6&style=flat" alt="yyashsingh-9" /> </p>
 
 
-- 🔭 I’m currently working on **E-com site**
+- 🔭 I Completed my project Two Fragrence - **E-com site**
 
 - 💬 Feel free to Ask me about **React.JS|Express|MongoDB|Node.Js|JavaScript**
 
