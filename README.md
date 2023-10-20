@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyashsingh-9&label=Profile%20views&color=0e75b6&style=flat" alt="yyashsingh-9" /> </p>
 
 
-- 🔭 I Completed my project Two Fragrence - **E-com site**
+- 🔭 I Completed my Portfolio which i call **Black Diiamond file**
 
 - 💬 Feel free to Ask me about **React.JS|Express|MongoDB|Node.Js|JavaScript**
 
@@ -14,6 +14,7 @@
 
 - ⚡ Fun fact about me **I excel in Business logic.💵**
 
+<h3 align="left">Visit my portfolio site - <a>https://black-diiamond-file.netlify.app/</a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yashwardhanm-singh-083064291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwardhanm singh" height="30" width="40" /></a>
