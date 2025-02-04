@@ -2,7 +2,7 @@
 <h1 align="center">Namaste 👋, I'm Yash</h1>
 <h3 align="center">From no code to self-taught full stack Web Developer.🥇</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919">
+<img align="right" alt="coding" width="400" src="[https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919](https://github.com/YYashSingh-9/YYashSingh-9/blob/main/bills-ugh.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyashsingh-9&label=Profile%20views&color=0e75b6&style=flat" alt="yyashsingh-9" /> </p>
 
 
