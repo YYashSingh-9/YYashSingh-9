@@ -1,5 +1,5 @@
 ![logo](https://github.com/YYashSingh-9/YYashSingh-9/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner%20(4).png)
-<h1 align="center">Namaste 👋, I'm Yash</h1>
+<h1 align="center">Hello👋, I'm Yash</h1>
 <h3 align="center">From no code to self-taught full stack Web Developer.🥇</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/YYashSingh-9/YYashSingh-9/blob/main/bills-ugh.gif">
